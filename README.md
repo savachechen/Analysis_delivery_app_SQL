@@ -16,7 +16,7 @@
 
 New users and couriers dynamic / change 
 
-<img src="https://github.com/savachechen/Analysis_delivery_app_SQL/blob/main/Images/new_users_and_couriers.png" width="500"> <img src="https://github.com/savachechen/Analysis_delivery_app_SQL/blob/main/Images/new_users_and_couriers_change.png" width="500"> 
+<img src="https://github.com/savachechen/Analysis_delivery_app_SQL/blob/main/Images/new_users_and_couriers.png" width="480"> <img src="https://github.com/savachechen/Analysis_delivery_app_SQL/blob/main/Images/new_users_and_couriers_change.png" width="480"> 
 
 Total users and couriers dynamic / change 
 
