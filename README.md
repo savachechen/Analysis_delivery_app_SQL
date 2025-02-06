@@ -15,8 +15,11 @@
 1) Построены графики с динамикой ежедневного прироста пользователей и курьеров в абсолютных и относительных величинах
 
 New users and couriers dynamic / change 
+<div align="center">
 
 <img src="https://github.com/savachechen/Analysis_delivery_app_SQL/blob/main/Images/new_users_and_couriers.png" width="500"> <img src="https://github.com/savachechen/Analysis_delivery_app_SQL/blob/main/Images/new_users_and_couriers_change.png" width="500"> 
+
+</div>
 
 Total users and couriers dynamic / change 
 
